@@ -40,8 +40,8 @@ This simple schedule management application helps accomplish this by making it e
 
 ## Links
 
-- Project: 
-- Repository: 
+- Project: https://jmcdonald112358.github.io/Work-Day-Scheduler/ 
+- Repository: https://github.com/jmcdonald112358/Work-Day-Scheduler
 
 
 ## Additional notes
@@ -54,4 +54,3 @@ This simple schedule management application helps accomplish this by making it e
    - Functionality for alerting the user to the current hour's task when the hour changes
    - Functionality for adding tasks for future days instead of just the current day
    - Functionality for marking a particular task as actually being done. Currently, a user would have to just assume that a task for a past hour is done, but I'd like to add the ability for them to click a "Finished" button that will add some styling to that hour to indicate that the task is finished
-   
