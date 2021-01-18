@@ -10,15 +10,22 @@ This simple schedule management application helps accomplish this by making it e
 
 1. Navigate to the application
 2. If tasks have already been input for the day, they will be loaded with the page
-//Image of existing tasks loaded
+![image](https://user-images.githubusercontent.com/73570812/104899614-4e33f280-5938-11eb-89ee-af4295e0535c.png)
+
 3. If no tasks have been created, an empty schedule will be loaded and ready for you to input the day's tasks
-//Image of empty task list
-4. To add a new task, or edit an existing one, simply click into the 'Add task' box and type your task in, and then click save
-//Image of active textarea
+![image](https://user-images.githubusercontent.com/73570812/104899749-791e4680-5938-11eb-8806-b3d49eec49ea.png)
+
+4. The current hour will be highlighted red to draw your attention to what you should be working on currently, whereas future tasks will be highlighted green
+![image](https://user-images.githubusercontent.com/73570812/104900765-b33c1800-5939-11eb-9ecc-41037cc1c17d.png)
+
+5. To add a new task, or edit an existing one, simply click into the 'Add task' box and type your task in, and then click save
+![image](https://user-images.githubusercontent.com/73570812/104899979-bda9e200-5938-11eb-8b1a-91440c0d03e0.png)
+
    1. Please note that adding/editing tasks for past hours is not allowed. Only the current hour or future hours can have tasks added
-   //Image of disabled save button
-5. To reset the schedule, click the 'Reset schedule' button to clear all saved tasks
-//Image of reset button
+   ![image](https://user-images.githubusercontent.com/73570812/104900488-57718f00-5939-11eb-86be-aabf7b36feee.png)
+
+6. To reset the schedule, click the 'Reset schedule' button to clear all saved tasks
+![image](https://user-images.githubusercontent.com/73570812/104900838-ccdd5f80-5939-11eb-970e-649e720781b5.png)
 
 
 ## Elements used in this projcet
